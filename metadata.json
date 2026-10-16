@@ -1,0 +1,6 @@
+{
+  "name": "GeoSentinel - Impossible Travel Detector",
+  "description": "AI-Based cybersecurity impossible travel detector monitoring geographical velocity, ISP shifts, and novel VPN detection with real-time risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
